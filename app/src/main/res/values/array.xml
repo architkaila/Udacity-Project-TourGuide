@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="food_outlet_name">
+        <item>Big Yellow Door</item>
+        <item>Pizza Hut</item>
+        <item>Burger King</item>
+        <item>Barbeque Nation</item>
+        <item>Khan Chacha</item>
+    </string-array>
+
+    <string-array name="food_outlet_desc">
+        <item>BYD is a combination of good food, cordial service, pocket friendly prices and bundle of good times.</item>
+        <item>One of my favorite pizza joints in the country. They serve the fluffy pizzas with the correct quantity of ingredients.</item>
+        <item>Burger King is famous for its Burgers and Fast food they serve. Speciality: Mutton Whopper, Chicken Whopper, Crispy Chicken</item>
+        <item>Best barbeque restaurant in india.Barbeque Nation is one of the better options when it comes to buffet style dining.</item>
+        <item>This place is known for serving best rolls</item>
+    </string-array>
+
+    <string-array name="food_outlet_contact">
+        <item>+91 7042294297</item>
+        <item>011 33106269</item>
+        <item>011 2561 5440</item>
+        <item>011 6060 0000</item>
+        <item>011 43036111</item>
+
+    </string-array>
+
+    <string-array name="food_outlet_address">
+        <item>H-8,Opposite Venkateswara College, Satyaniketan, New Delhi</item>
+        <item>M 20, Outer Circle, Connaught Place, New Delhi, Delhi 110001</item>
+        <item>Unity One Mall. Unit No. GF 5 Orchard Road Janak Puri West Metro Station, Delhi, 110058</item>
+        <item>Unity One, 2nd Floor, Narang Colony, Chander Nagar, Janakpuri, New Delhi, Delhi 110018</item>
+        <item>D-3, Connaught Place, New Delhi</item>
+    </string-array>
+
+    <string-array name="food_outlet_timing">
+        <item>10AM to 11PM</item>
+        <item>11AM to 11PM</item>
+        <item>10AM to 11PM</item>
+        <item>12PM to 3PM and 6PM to 12AM</item>
+        <item>12 Noon to 11PM</item>
+    </string-array>
+
+    <string-array name="event_name">
+        <item>Helicoptor Ride</item>
+        <item>Group Cycling</item>
+        <item>Air Adventures</item>
+
+    </string-array>
+
+    <string-array name="event_desc">
+        <item>General public can Enjoy helicopter rides and charter flights and have a delhi tour</item>
+        <item>In this group cycling tour, discover the history of the city from ancient times to the medieval and finally the modern. All while riding a cycle!</item>
+        <item>Fly like a free bird.It would be wonderful to see natures beauty from high above</item>
+    </string-array>
+
+    <string-array name="event_contact">
+        <item>+91 7042294298</item>
+        <item>+91-9643982934</item>
+        <item>+91-9050407442</item>
+    </string-array>
+
+    <string-array name="event_address">
+        <item>Rohini Heliport, Sector 36 Rohini, New Delhi.</item>
+        <item>Gate Number 1, Sri Aurobindo Marg, Block Q, Green Park Extension, Green Park, Delhi, NCR 110016, India</item>
+        <item>Fly India AeroPark, Sonha Road, Delhi NCR</item>
+    </string-array>
+
+    <string-array name="event_timing">
+        <item>9:30 AM</item>
+        <item>August 3 to 30th (7am)</item>
+        <item>August 3 to 31st ( 9AM - 4PM )</item>
+    </string-array>
+
+
+    <string-array name="shop_name">
+        <item>LifeStyle</item>
+        <item>Forever 21</item>
+        <item>Levis</item>
+        <item>Pantaloons</item>
+    </string-array>
+
+    <string-array name="shop_desc">
+        <item>Lifestyle is one of the most trusted purveyors of unique, designer products in India. It provides you an exquisite range of Branded Clothes, Artificial Jewelry, Watches, Babycare,Home Acessories</item>
+        <item>Forever21 offers the most current fashions for women and men.Find the best selection of fashion tops, dresses, denim, shoes</item>
+        <item>It has the best selection of Levis jeans, jackets, and clothing for men, women, and kids</item>
+        <item>Shop for Ethnic, Formal, Casual, Western Wear and More.</item>
+    </string-array>
+
+    <string-array name="shop_contact">
+        <item>011 4981 2100</item>
+        <item>011 4106 6881</item>
+        <item>011 4567 4046</item>
+        <item>011 2561 5400</item>
+    </string-array>
+
+    <string-array name="shop_address">
+        <item>Najafgarh Rd, Block 6, Tilak Nagar, New Delhi, Delhi 110018</item>
+        <item>DLF Place Anchor-F 1st Floor GF-A4 District Centre, Saket Rd, Press Enclave, Saket, Delhi 110017</item>
+        <item>B-19, Near Mc Donald, Inner Circle, Connaught Place, Delhi 110001</item>
+        <item>Unity One Mall, Near Janakpuri West Metro station, New Delhi, Delhi 110058</item>
+    </string-array>
+
+    <string-array name="shop_timing">
+        <item>11AM to 10PM</item>
+        <item>10AM to 10PM</item>
+        <item>10AM to 10PM</item>
+        <item>11AM to 9PM</item>
+    </string-array>
+
+    <string-array name="sight_name">
+        <item>Red Fort</item>
+        <item>Qutub Minar</item>
+        <item>Akshardham Temple</item>
+        <item>Safdarjang Tomb</item>
+    </string-array>
+
+    <string-array name="sight_desc">
+        <item>The Red Fort, the largest monument in Delhi, is one of its most popular tourist destinations and attracts thousands of visitors every year.</item>
+        <item>Qutub Minar is a minaret that forms part of the Qutb complex, a UNESCO World Heritage Site in the Mehrauli area of Delhi, India.</item>
+        <item>Akshardham or Swaminarayan Akshardham complex is a Hindu mandir, and a spiritual-cultural campus in New Delhi, India.</item>
+        <item>Safdarjungs Tomb is a sandstone and marble mausoleum in New Delhi, India. It was built in 1754 in the late Mughal Empire style</item>
+    </string-array>
+
+    <string-array name="sight_contact">
+        <item>011 2327 3305</item>
+        <item>011 2327 6604</item>
+        <item>011 2327 4402</item>
+        <item>011 2327 2207</item>
+    </string-array>
+
+    <string-array name="sight_address">
+        <item>Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006</item>
+        <item>Mehrauli, New Delhi, Delhi 110030</item>
+        <item>Noida Mor, Pandav Nagar, New Delhi, Delhi 110092</item>
+        <item>Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110021</item>
+    </string-array>
+
+    <string-array name="sight_timing">
+        <item>11AM to 5PM</item>
+        <item>7AM to 5PM</item>
+        <item>9AM to 7PM</item>
+        <item>7AM to 5PM</item>
+    </string-array>
+
+
+</resources>
